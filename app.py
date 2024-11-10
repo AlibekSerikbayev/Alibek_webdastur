@@ -1,6 +1,6 @@
 #venv\Scripts\activate
 #streamlit run ./app.py
-
+#bu o'zgarish
 import streamlit as st
 import pathlib
 import plotly.express as px
